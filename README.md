@@ -67,7 +67,7 @@ This project provided hands-on experience with:
 
 - Designing and optimizing modern ELT pipelines.
 
- Leveraging Snowflake’s robust features for real-time data architecture.
+ - Leveraging Snowflake’s robust features for real-time data architecture.
 
 ## Contact
 
